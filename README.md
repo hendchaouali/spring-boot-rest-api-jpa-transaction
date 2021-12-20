@@ -585,7 +585,7 @@ Ce contrôleur expose des end-point pour faire les CRUD (créer, récupérer, me
 
 ##### Points de terminaison d’API
 
-| Méthode HTTP | URI | Description | Codes d'états http valides |
+| Méthode HTTP | URI | Description | Codes d'états http |
 | ------------- | ------------- | ------------- | ------------- |
 | POST  | /api/tickets  | Créer une chanson  | 201  |
 | PUT  | /api/tickets/{id}  | Modifier un ticket  | 200, 404  |
